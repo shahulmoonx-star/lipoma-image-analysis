@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+artifacts/
+outputs/
+wheels/
+dataset/
+.DS_Store
+models/hf/
+
+# local only
+dataset_curated/images/
+*.licence*

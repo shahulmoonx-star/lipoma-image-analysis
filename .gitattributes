@@ -1,0 +1,6 @@
+* text=auto
+*.png binary
+*.pth binary
+*.joblib binary
+*.npz binary
+*.vault binary

@@ -1,0 +1,15 @@
+original_path,category,reason
+cerebellopontine angle lipoma/2.jpeg,collage,Two sequences (T1 and T1 fat-sat) with caption text in one file - not a single image.
+filar lipoma/12.jpg,low resolution,336.0x384.0 px - longer side below 400
+inguinal canal lipoma/3.mp4,not an image,.mp4 file - the pipeline only reads still images
+intermuscular lipoma/4.png,label conflict,Identical picture filed under different classes (intermuscular lipoma vs intramuscular lipoma) - cannot be both.
+intestinal lipoma - 1.jpg,needs expert confirmation,Pelvic CT; lesion not evident and the label comes from the file name only. Re-include after radiologist confirmation.
+intramuscular lipoma - 1.png,label conflict,Identical picture filed under different classes (intermuscular lipoma vs intramuscular lipoma) - cannot be both.
+pericallosal lipoma/24.jpeg,not a plain image,MR spectroscopy screenshot with spectrum graph and grid overlay.
+peritesticular lipoma - 1.jpeg,duplicate,Identical to inguinal canal lipoma/1.jpeg
+peritesticular lipoma - 2.jpeg,duplicate,Identical to inguinal canal lipoma/4.jpeg
+peritesticular lipoma - 3.mp4,not an image,.mp4 file - the pipeline only reads still images
+peritesticular lipoma/1.jpeg,duplicate,Identical to inguinal canal lipoma/5.jpeg
+pleural lipoma/3.jpeg,needs expert confirmation,Coronal CT of back / flanks; no pleural lesion visible to the reviewer. Re-include after radiologist confirmation.
+subgaleal lipoma/3.jpg,unusable,"Heavily zoomed, blurry crop; the lesion cannot be identified."
+suprasellar cistern lipoma/5.jpg,collage,Four-panel figure (A-D) with an author watermark - not a single image and carries attribution.

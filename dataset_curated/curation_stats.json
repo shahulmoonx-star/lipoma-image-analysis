@@ -1,0 +1,27 @@
+{
+  "raw_files": 238,
+  "kept": 224,
+  "excluded": 14,
+  "excluded_by_category": {
+    "duplicate": 3,
+    "collage": 2,
+    "not an image": 2,
+    "label conflict": 2,
+    "needs expert confirmation": 2,
+    "low resolution": 1,
+    "not a plain image": 1,
+    "unusable": 1
+  },
+  "classes": 29,
+  "classes_ml_eligible": 22,
+  "modality": {
+    "CT": 110,
+    "MRI": 81,
+    "Ultrasound": 15,
+    "X-ray": 12,
+    "Mammography": 6
+  },
+  "overlay_images": 5,
+  "median_width": 630,
+  "median_height": 630
+}

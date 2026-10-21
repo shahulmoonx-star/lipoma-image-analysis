@@ -1,0 +1,30 @@
+class_name,body_region,images,mri,ct,ultrasound,xray,mammography,ml_eligible
+pericallosal lipoma,Brain / skull / scalp,26,16,8,2,0,0,True
+intraosseous lipoma,Muscle / bone (limbs & trunk),24,9,5,0,10,0,True
+quadrigeminal cistern lipoma,Brain / skull / scalp,17,15,2,0,0,0,True
+intestinal lipoma,Abdomen,16,0,16,0,0,0,True
+intramuscular lipoma,Muscle / bone (limbs & trunk),12,6,5,1,0,0,True
+filar lipoma,Spine,11,9,2,0,0,0,True
+breast lipoma,Breast,10,1,0,3,0,6,True
+parotid lipoma,Head & neck,10,0,7,3,0,0,True
+suprasellar cistern lipoma,Brain / skull / scalp,8,6,2,0,0,0,True
+pancreatic lipoma,Abdomen,8,2,6,0,0,0,True
+gastric lipoma,Abdomen,8,0,8,0,0,0,True
+cerebellopontine angle lipoma,Brain / skull / scalp,7,4,3,0,0,0,True
+intermuscular lipoma,Muscle / bone (limbs & trunk),7,5,2,0,0,0,True
+choroid plexus lipoma,Brain / skull / scalp,7,2,5,0,0,0,True
+mesenteric lipoma,Abdomen,6,0,5,1,0,0,True
+cardiac lipoma,Chest,6,1,5,0,0,0,True
+paracaval lipoma,Abdomen,6,0,6,0,0,0,True
+pleural lipoma,Chest,5,0,3,0,2,0,True
+inguinal canal / peritesticular lipoma,Groin / genital,5,1,1,3,0,0,True
+subgaleal lipoma,Brain / skull / scalp,5,2,2,1,0,0,True
+mediastinal lipoma,Chest,4,1,3,0,0,0,True
+hepatic lipoma,Abdomen,3,0,3,0,0,0,True
+endobronchial lipoma,Chest,2,0,2,0,0,0,False
+adrenal lipoma,Abdomen,2,0,2,0,0,0,False
+chest wall lipoma,Chest,2,0,1,1,0,0,False
+pericardial lipoma,Chest,2,0,2,0,0,0,False
+intracranial osteolipoma,Brain / skull / scalp,2,1,1,0,0,0,False
+parosteal lipoma,Muscle / bone (limbs & trunk),2,0,2,0,0,0,False
+esophageal lipoma,Chest,1,0,1,0,0,0,False

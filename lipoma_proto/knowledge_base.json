@@ -1,0 +1,803 @@
+{
+  "_meta": {
+    "purpose": "Educational reference text per lipoma location."
+  },
+  "general": {
+    "what_is_it": "A lipoma is a benign tumour made of mature fat cells. It is the commonest benign soft-tissue tumour in adults.",
+    "how_common": "Roughly 1-2 in 100 people have at least one lipoma (estimates vary); peak detection is between 40 and 60 years.",
+    "imaging_mri": "MRI: signal follows normal fat - bright on T1, intermediate/bright on T2 (fast spin-echo), signal drops on fat-suppressed sequences (STIR / fat-sat); thin or no septa; no enhancing nodule.",
+    "imaging_ct": "CT: homogeneous fat density (about -65 to -125 HU), no enhancement. Fat looks DARK on CT but BRIGHT on T1 MRI.",
+    "imaging_us": "Ultrasound: usually ovoid, iso- to hyper-echoic compared with surrounding fat, compressible, little or no Doppler flow.",
+    "liposarcoma_warning": "A fatty mass that is deep, larger than about 5 cm, growing quickly, painful, has thick septa / nodular non-fatty areas or enhances may be an atypical lipomatous tumour / well-differentiated liposarcoma and needs specialist (sarcoma service) review; MDM2 testing on biopsy separates the two.",
+    "management": "Small, painless, typical lipomas: observation and reassurance. Surgical (marginal) excision if painful, growing, cosmetically bothersome, compressing a structure or when the diagnosis is uncertain. Liposuction is an option for some superficial lipomas. Recurrence is uncommon after complete excision of a superficial lipoma and higher for infiltrating intramuscular lipomas.",
+    "medicines": "No tablet or injection is proven to dissolve an established lipoma. Medicines only treat symptoms or complications (for example simple analgesics / NSAIDs for pain, antibiotics for a post-operative infection, anti-seizure drugs for epilepsy linked to an intracranial lipoma). Injection lipolysis (e.g. deoxycholic acid, phosphatidylcholine) is off-label with limited evidence and can cause local reactions. Weight loss or diet does not reliably shrink lipomas. Any drug choice and dose must come from a doctor.",
+    "age_groups": {
+      "under_3": "A fatty mass in an infant or toddler is more likely lipoblastoma / lipoblastomatosis than an ordinary lipoma - paediatric specialist review.",
+      "3_to_17": "Ordinary lipomas are uncommon in children. Think of lipoblastoma, lipomatous overgrowth syndromes (e.g. PIK3CA-related), and midline fatty masses over the spine (spinal dysraphism). Intracranial and filum terminale lipomas are congenital and may be found at any age.",
+      "18_to_39": "Lipomas are less common than later in life; multiple lipomas suggest familial multiple lipomatosis (and rarely syndromes such as MEN1 or Gardner).",
+      "40_to_59": "Peak age for typical benign lipomas.",
+      "60_plus": "A large, deep fatty mass in an older adult has a higher chance of being a liposarcoma - keep a low threshold for MRI and biopsy."
+    }
+  },
+  "classes": {
+    "adrenal lipoma": {
+      "how_common": "Pure adrenal lipoma is very rare. The usual fat-containing adrenal lesion is a myelolipoma (fat plus blood-forming tissue), found in a small percentage (single digits) of adrenal incidentalomas.",
+      "typical_age": [
+        40,
+        70
+      ],
+      "typical_age_text": "40-70 years (myelolipoma peaks in the 5th-7th decade)",
+      "sex_note": "Roughly equal in men and women.",
+      "typical_sites": "Adrenal gland; usually one-sided.",
+      "symptoms": "Usually none (incidental). Large lesions may cause flank/abdominal pain or bleed.",
+      "imaging_note": "Macroscopic fat on CT/MRI with a thin capsule; no enhancing soft-tissue nodule.",
+      "differential": [
+        "Adrenal myelolipoma",
+        "Retroperitoneal liposarcoma",
+        "Renal angiomyolipoma (upper pole)",
+        "Adrenocortical carcinoma with fat (rare)"
+      ],
+      "management": "Typical small lesions with clear fat need no treatment or routine follow-up. Hormone tests if the picture is atypical. Surgery (adrenalectomy) for large lesions, pain, bleeding or doubtful diagnosis.",
+      "medicines": "None for the lesion itself; hormonal work-up and treatment only if a functioning tumour is found.",
+      "follow_up": "Usually none for a classic fatty lesion; repeat imaging if it is large or atypical.",
+      "red_flags": [
+        "Rapid growth",
+        "Heterogeneous enhancing tissue",
+        "Size above 6-10 cm",
+        "Sudden flank pain (haemorrhage)"
+      ]
+    },
+    "breast lipoma": {
+      "how_common": "A common benign fatty lesion of the breast; exact frequency varies with the population screened.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "Mostly women aged 40-60",
+      "sex_note": "Mainly women; rare in men.",
+      "typical_sites": "Subcutaneous or within breast tissue, any quadrant.",
+      "symptoms": "Soft, painless, movable lump; often found on screening imaging.",
+      "imaging_note": "Mammography: fat-density (radiolucent) oval mass with a thin capsule. Ultrasound: ovoid, iso/hyper-echoic, compressible. A classic fatty lesion is usually BI-RADS 2 (benign).",
+      "differential": [
+        "Breast hamartoma (fibroadenolipoma)",
+        "Fat necrosis / oil cyst",
+        "Galactocele",
+        "Liposarcoma (very rare)"
+      ],
+      "management": "Observation if typical. Excision or biopsy if it grows, is painful, looks atypical or the clinical picture does not match the imaging.",
+      "medicines": "None for the lesion; analgesics if there is local pain.",
+      "follow_up": "Routine breast screening; short-interval imaging only if features are indeterminate.",
+      "red_flags": [
+        "Palpable mass with solid non-fatty component on imaging",
+        "Rapid growth",
+        "Skin changes or nipple discharge"
+      ]
+    },
+    "cardiac lipoma": {
+      "how_common": "Lipomas are roughly 10% of benign primary cardiac tumours (myxoma is the commonest). Lipomatous hypertrophy of the interatrial septum is a different, non-neoplastic fatty thickening.",
+      "typical_age": [
+        30,
+        80
+      ],
+      "typical_age_text": "Adults, most often 40-70 years",
+      "sex_note": "No strong sex preference.",
+      "typical_sites": "Epicardial surface, within the myocardium, endocardium (right atrium / left ventricle) or interatrial septum.",
+      "symptoms": "Often none. Palpitations / arrhythmia, chest pain, breathlessness or obstruction when large or intracavitary.",
+      "imaging_note": "Cardiac MRI with fat suppression and CT show homogeneous fat without enhancement; echo alone cannot prove fat.",
+      "differential": [
+        "Lipomatous hypertrophy of the interatrial septum",
+        "Cardiac liposarcoma (rare)",
+        "Myxoma",
+        "Fibroma",
+        "Teratoma"
+      ],
+      "management": "Asymptomatic: surveillance by a cardiologist. Surgical resection if obstructing, causing arrhythmia or when malignancy cannot be excluded.",
+      "medicines": "Only for complications (anti-arrhythmic or anticoagulant drugs) and only as decided by a cardiologist.",
+      "follow_up": "Periodic echo or cardiac MRI if not removed.",
+      "red_flags": [
+        "Heterogeneous or enhancing mass",
+        "Pericardial effusion",
+        "Rapid growth",
+        "Syncope or heart-failure symptoms"
+      ]
+    },
+    "cerebellopontine angle lipoma": {
+      "how_common": "About 9% of intracranial lipomas; well below 1% of cerebellopontine-angle masses.",
+      "typical_age": [
+        20,
+        70
+      ],
+      "typical_age_text": "Adults, commonly 30-60 years",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Cerebellopontine angle / internal auditory canal, often wrapped around the 7th and 8th cranial nerves.",
+      "symptoms": "Hearing loss, tinnitus, vertigo, facial numbness or twitching; many are incidental.",
+      "imaging_note": "MRI: T1 bright, signal lost on fat suppression, no enhancement - this separates it from a vestibular schwannoma (enhances) and from a haemorrhagic or dermoid lesion.",
+      "differential": [
+        "Vestibular schwannoma",
+        "Epidermoid / dermoid cyst",
+        "Haemorrhage (T1 bright)",
+        "Meningioma"
+      ],
+      "management": "Conservative in most patients. Surgery is risky because the lipoma is intertwined with cranial nerves and vessels; reserved for progressive brainstem compression.",
+      "medicines": "Symptomatic only (e.g. short-term vestibular suppressants, treatment of trigeminal-type pain) - by a neurologist / ENT specialist.",
+      "follow_up": "Clinical follow-up with audiometry; repeat MRI if symptoms change.",
+      "red_flags": [
+        "Progressive hearing loss",
+        "Facial weakness",
+        "Brainstem compression signs",
+        "Enhancement on contrast MRI"
+      ]
+    },
+    "chest wall lipoma": {
+      "how_common": "Common soft-tissue lipoma site; may be subcutaneous, intramuscular or have an intrathoracic (dumbbell) component.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "40-60 years",
+      "sex_note": "No strong sex preference.",
+      "typical_sites": "Back and anterior chest wall, around the scapula, between ribs.",
+      "symptoms": "Painless soft swelling; deep or large ones can be uncomfortable.",
+      "imaging_note": "Ultrasound / CT / MRI show fat that follows the subcutaneous fat; a thin capsule.",
+      "differential": [
+        "Liposarcoma",
+        "Elastofibroma dorsi (scapular tip)",
+        "Hibernoma",
+        "Lipomatosis"
+      ],
+      "management": "Observation or excision for symptoms, growth or doubt; deep and large lesions need MRI first.",
+      "medicines": "None for the lesion; analgesics for discomfort.",
+      "follow_up": "Clinical review; imaging if it grows.",
+      "red_flags": [
+        "Deep to fascia and over 5 cm",
+        "Rapid growth",
+        "Pain",
+        "Non-fatty nodules on MRI"
+      ]
+    },
+    "choroid plexus lipoma": {
+      "how_common": "Rare; intraventricular lipomas are a small minority of intracranial lipomas (intracranial lipomas overall are about 0.1-0.5% of intracranial tumours).",
+      "typical_age": [
+        10,
+        80
+      ],
+      "typical_age_text": "Any age, usually found incidentally in adults",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Choroid plexus of the lateral ventricle (usually the atrium), occasionally third / fourth ventricle.",
+      "symptoms": "Almost always none (incidental).",
+      "imaging_note": "CT: very low (fat) density, unlike the bright calcification that is common in choroid plexus. MRI: T1 bright, dark on fat suppression.",
+      "differential": [
+        "Choroid plexus calcification / cyst",
+        "Ruptured dermoid",
+        "Xanthogranuloma",
+        "Meningioma"
+      ],
+      "management": "No treatment needed.",
+      "medicines": "None (anti-seizure medicine only if seizures from another cause).",
+      "follow_up": "Usually none.",
+      "red_flags": [
+        "Enhancement",
+        "Ventricular enlargement (hydrocephalus)",
+        "New neurological symptoms"
+      ]
+    },
+    "endobronchial lipoma": {
+      "how_common": "Rare; a small fraction of a percent of lung tumours.",
+      "typical_age": [
+        40,
+        75
+      ],
+      "typical_age_text": "50-70 years",
+      "sex_note": "More often men (smokers) - roughly 2:1.",
+      "typical_sites": "Larger central bronchi (lobar / main bronchus).",
+      "symptoms": "Cough, wheeze, breathlessness, haemoptysis, recurrent pneumonia or lung collapse beyond the blockage.",
+      "imaging_note": "CT: smooth fat-density nodule inside a bronchus; bronchoscopy shows a yellow polypoid mass.",
+      "differential": [
+        "Carcinoid tumour",
+        "Pulmonary hamartoma (fat + popcorn calcification)",
+        "Lung cancer",
+        "Liposarcoma (very rare)"
+      ],
+      "management": "Bronchoscopic removal (laser / electrocautery / cryotherapy); surgery (bronchotomy, sleeve resection or lobectomy) if lung is irreversibly damaged or the diagnosis is uncertain.",
+      "medicines": "Antibiotics for post-obstructive infection and symptomatic relief only - lipoma itself is removed, not treated with drugs.",
+      "follow_up": "Bronchoscopy / CT follow-up after removal.",
+      "red_flags": [
+        "Haemoptysis",
+        "Persistent lung collapse",
+        "Non-fatty component on CT"
+      ]
+    },
+    "esophageal lipoma": {
+      "how_common": "Rare; well under 1% of gastrointestinal lipomas, and a small share of benign oesophageal tumours.",
+      "typical_age": [
+        40,
+        75
+      ],
+      "typical_age_text": "50-60 years",
+      "sex_note": "Slightly more in men.",
+      "typical_sites": "Mostly the upper (cervical) oesophagus, submucosal; may be pedunculated.",
+      "symptoms": "Difficulty swallowing, regurgitation, occasionally a pedunculated lipoma regurgitated into the mouth.",
+      "imaging_note": "CT: fat density; endoscopic ultrasound: hyperechoic submucosal lesion.",
+      "differential": [
+        "Giant fibrovascular polyp of the oesophagus (can contain fat)",
+        "Leiomyoma",
+        "GIST",
+        "Liposarcoma"
+      ],
+      "management": "Observation if small and silent; endoscopic or surgical removal if over about 4 cm or symptomatic.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Endoscopy follow-up if left in place.",
+      "red_flags": [
+        "Progressive dysphagia",
+        "Bleeding",
+        "Non-fatty or enhancing component"
+      ]
+    },
+    "filar lipoma": {
+      "how_common": "A fatty filum terminale is found incidentally in roughly 1-5% of people on lumbar MRI (reported range is wide); most are harmless.",
+      "typical_age": [
+        0,
+        80
+      ],
+      "typical_age_text": "Any age; incidental in adults, symptomatic tethered cord mostly in children / young adults",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Filum terminale in the lumbosacral spinal canal.",
+      "symptoms": "Usually none. If the cord is tethered: back or leg pain, gait problems, bladder / bowel dysfunction.",
+      "imaging_note": "Sagittal / axial T1 MRI: bright thickened filum (over about 2 mm) that drops on fat suppression; check that the conus ends at a normal level (above L2-L3).",
+      "differential": [
+        "Lipoma of the conus / lipomyelomeningocele",
+        "Myxopapillary ependymoma (enhances)",
+        "Dermoid / epidermoid",
+        "Other causes of filum thickening"
+      ],
+      "management": "No treatment when the conus is normally placed and there are no symptoms. Neurosurgical untethering (filum section) when a tethered-cord syndrome is present.",
+      "medicines": "None for the lipoma; pain relief and bladder care only as symptoms require.",
+      "follow_up": "Clinical review; repeat MRI if new symptoms appear.",
+      "red_flags": [
+        "Low-lying conus",
+        "New bladder / bowel problems",
+        "Progressive leg weakness or pain",
+        "Skin dimple or tuft over the sacrum"
+      ]
+    },
+    "gastric lipoma": {
+      "how_common": "Under 1% of gastric tumours and about 5% of gastrointestinal lipomas.",
+      "typical_age": [
+        40,
+        75
+      ],
+      "typical_age_text": "50-60 years",
+      "sex_note": "Slight female predominance in some series.",
+      "typical_sites": "Antrum (most), submucosal.",
+      "symptoms": "Often none. Lesions above 2-3 cm may cause bleeding from surface ulcer, pain, nausea, or intermittent outlet obstruction.",
+      "imaging_note": "CT: homogeneous fat density; endoscopy: yellow submucosal bulge with 'cushion' and 'naked fat' signs; EUS: hyperechoic.",
+      "differential": [
+        "GIST",
+        "Leiomyoma",
+        "Ectopic pancreas",
+        "Carcinoid",
+        "Liposarcoma (very rare)"
+      ],
+      "management": "Observe if small and silent. Endoscopic (ESD) or laparoscopic resection if symptomatic, bleeding, obstructing or larger than about 3-4 cm.",
+      "medicines": "Acid suppression or iron replacement may be used for associated ulcer / anaemia, but they do not remove the lipoma.",
+      "follow_up": "Endoscopic review if left in place.",
+      "red_flags": [
+        "Black stools or anaemia",
+        "Persistent vomiting",
+        "Non-fatty or enhancing component"
+      ]
+    },
+    "hepatic lipoma": {
+      "how_common": "Very rare. Fat-containing liver masses are more often angiomyolipoma, myelolipoma or focal fatty change.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "Middle-aged adults",
+      "sex_note": "Reported more often in women, but numbers are small.",
+      "typical_sites": "Liver parenchyma, often subcapsular.",
+      "symptoms": "Usually none (incidental).",
+      "imaging_note": "Homogeneous fat on CT / MRI with signal drop on fat suppression; no enhancing vessels (which would favour angiomyolipoma).",
+      "differential": [
+        "Hepatic angiomyolipoma",
+        "Hepatocellular carcinoma with fat",
+        "Focal fatty infiltration",
+        "Myelolipoma",
+        "Metastatic liposarcoma"
+      ],
+      "management": "Observation when imaging is unequivocal; biopsy if doubt; resection for symptoms or uncertainty.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Imaging follow-up if not removed, especially in chronic liver disease.",
+      "red_flags": [
+        "Background cirrhosis",
+        "Enhancing component",
+        "Growth on follow-up"
+      ]
+    },
+    "inguinal canal / peritesticular lipoma": {
+      "how_common": "Lipoma of the spermatic cord is the commonest benign cord mass and is frequently found during inguinal hernia repair (reported in a large share of operations in some series).",
+      "typical_age": [
+        20,
+        80
+      ],
+      "typical_age_text": "Adult men, often 30-60 years",
+      "sex_note": "Men (arises along the spermatic cord).",
+      "typical_sites": "Inguinal canal and spermatic cord, sometimes extending into the scrotum.",
+      "symptoms": "Painless groin or scrotal swelling; may accompany or mimic an inguinal hernia.",
+      "imaging_note": "Ultrasound: echogenic, avascular mass along the cord; CT / MRI show fat density / signal. Note that herniated omental fat can look the same.",
+      "differential": [
+        "Inguinal hernia containing fat",
+        "Liposarcoma of the spermatic cord (rare, often mistaken for lipoma)",
+        "Hydrocele",
+        "Lymph node / epididymal mass"
+      ],
+      "management": "Observation if small and painless; surgical excision with hernia repair when symptomatic, cosmetically bothersome or if imaging is not typical.",
+      "medicines": "Only simple pain relief after surgery.",
+      "follow_up": "Clinical review; MRI if large or growing.",
+      "red_flags": [
+        "Rapid growth",
+        "Large size (over 5 cm)",
+        "Heterogeneous mass",
+        "Recurrence after excision"
+      ]
+    },
+    "intermuscular lipoma": {
+      "how_common": "Less common than intramuscular lipoma; a small percentage of all lipomas.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "40-60 years",
+      "sex_note": "No strong preference.",
+      "typical_sites": "Between muscle groups (fascial planes) - shoulder, arm, thigh, neck, trunk.",
+      "symptoms": "Deep painless swelling; may compress nerves or vessels.",
+      "imaging_note": "MRI: encapsulated fat-signal mass lying between muscles with thin septa.",
+      "differential": [
+        "Atypical lipomatous tumour / well-differentiated liposarcoma",
+        "Intramuscular lipoma",
+        "Hibernoma",
+        "Lipoma arborescens"
+      ],
+      "management": "Excision if symptomatic, growing or large; large deep fatty tumours should go through a sarcoma team before surgery.",
+      "medicines": "None for the lesion; analgesics for discomfort.",
+      "follow_up": "Clinical review; imaging if regrowth.",
+      "red_flags": [
+        "Deep and over 5-10 cm",
+        "Thick septa or nodules",
+        "Rapid growth",
+        "Pain"
+      ]
+    },
+    "intestinal lipoma": {
+      "how_common": "Lipomas are the second commonest benign colon tumour after adenomatous polyps; about 65-75% of GI lipomas are in the colon and 20-25% in the small bowel.",
+      "typical_age": [
+        40,
+        80
+      ],
+      "typical_age_text": "50-60 years (5th-6th decade)",
+      "sex_note": "Slight female predominance in some series.",
+      "typical_sites": "Right colon (caecum, ascending), ileum; submucosal.",
+      "symptoms": "Often none. Over about 2 cm: abdominal pain, bleeding, bowel habit change; intussusception or obstruction (a lipoma can be the lead point).",
+      "imaging_note": "CT: smooth ovoid fat-density mass; colonoscopy: yellow submucosal bulge with 'cushion' and 'naked fat' signs.",
+      "differential": [
+        "Other lead points for intussusception (cancer is the commonest in adults)",
+        "GIST",
+        "Adenomatous polyp",
+        "Carcinoid",
+        "Lymphoma",
+        "Liposarcoma (rare)"
+      ],
+      "management": "Observe if under about 2 cm and silent. Endoscopic or laparoscopic resection if symptomatic, bleeding, intussusception or when malignancy cannot be excluded.",
+      "medicines": "None for the lesion; iron or fluids only for complications.",
+      "follow_up": "Colonoscopic follow-up if left in place.",
+      "red_flags": [
+        "Intussusception or obstruction",
+        "Rectal bleeding / anaemia",
+        "Weight loss",
+        "Non-fatty component"
+      ]
+    },
+    "intracranial osteolipoma": {
+      "how_common": "Rare variant of intracranial lipoma that contains bone or calcification.",
+      "typical_age": [
+        0,
+        80
+      ],
+      "typical_age_text": "Any age; usually incidental",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Midline - pericallosal, quadrigeminal / suprasellar cisterns.",
+      "symptoms": "Usually none; seizures or headache are possible.",
+      "imaging_note": "CT: fat plus bone / calcification; MRI: T1-bright fat with signal voids from bone.",
+      "differential": [
+        "Dermoid cyst",
+        "Teratoma",
+        "Craniopharyngioma",
+        "Calcified meningioma",
+        "Cavernous malformation"
+      ],
+      "management": "Conservative; surgery is rarely justified because of closely related vessels and nerves.",
+      "medicines": "Anti-seizure drugs only if seizures occur (neurologist's decision).",
+      "follow_up": "Usually none unless symptomatic.",
+      "red_flags": [
+        "New seizures",
+        "Hydrocephalus",
+        "Enhancement or growth"
+      ]
+    },
+    "intramuscular lipoma": {
+      "how_common": "About 1-4% of all lipomas.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "30-60 years (peak about 40-60)",
+      "sex_note": "Somewhat more often in men.",
+      "typical_sites": "Thigh (commonest), shoulder / upper arm, trunk, calf.",
+      "symptoms": "Deep painless mass that firms up when the muscle contracts; sometimes aching.",
+      "imaging_note": "MRI: fat signal infiltrating between muscle fibres (infiltrating type) or a well-circumscribed fatty mass in muscle.",
+      "differential": [
+        "Atypical lipomatous tumour / well-differentiated liposarcoma",
+        "Intramuscular myxoma",
+        "Haemangioma",
+        "Lipoma arborescens"
+      ],
+      "management": "Observe if small and silent; excision if symptomatic or growing - infiltrating tumours need a wider excision and have a higher recurrence rate (up to about 20% or more in some series). Large (over 5 cm) deep lesions: sarcoma-team review.",
+      "medicines": "Simple analgesics / NSAIDs for pain only.",
+      "follow_up": "Clinical / MRI follow-up after incomplete excision.",
+      "red_flags": [
+        "Over 5 cm and deep",
+        "Rapid growth",
+        "Thick septa or nodules",
+        "Recurrence"
+      ]
+    },
+    "intraosseous lipoma": {
+      "how_common": "Very rare - well under 1% (about 0.1%) of primary bone tumours.",
+      "typical_age": [
+        20,
+        70
+      ],
+      "typical_age_text": "30-60 years",
+      "sex_note": "Roughly equal or slight male predominance.",
+      "typical_sites": "Calcaneus (commonest), proximal femur (intertrochanteric region / neck), tibia, fibula, ilium.",
+      "symptoms": "Often none (incidental). Pain in some, rarely pathological fracture.",
+      "imaging_note": "X-ray: well-defined lucent lesion with sclerotic rim, sometimes a central calcified nidus. MRI: fat signal if viable (Milgram stage 1); mixed signal with necrosis / calcification / cyst in later stages.",
+      "differential": [
+        "Simple (unicameral) bone cyst",
+        "Intraosseous ganglion",
+        "Bone infarct",
+        "Giant-cell tumour",
+        "Chondroid lesions",
+        "Fibrous dysplasia"
+      ],
+      "management": "Observation with imaging if painless. Curettage with or without bone graft for pain or fracture risk; protective fixation in weight-bearing sites such as the proximal femur.",
+      "medicines": "Analgesics / NSAIDs for pain; no drug removes the lesion.",
+      "follow_up": "Periodic X-ray; recurrence after curettage is uncommon.",
+      "red_flags": [
+        "Pain at rest or night pain",
+        "Cortical destruction or periosteal reaction",
+        "Rapid change on follow-up"
+      ]
+    },
+    "mediastinal lipoma": {
+      "how_common": "About 1-3% of primary mediastinal tumours.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "30-60 years",
+      "sex_note": "Both sexes.",
+      "typical_sites": "Anterior / inferior mediastinum, sometimes dumbbell-shaped through the thoracic inlet.",
+      "symptoms": "Usually none; cough, breathlessness or chest pain when large.",
+      "imaging_note": "CT: homogeneous fat (about -50 to -120 HU), may mould around structures without invading them.",
+      "differential": [
+        "Mediastinal lipomatosis (steroids, obesity, Cushing)",
+        "Thymolipoma",
+        "Liposarcoma",
+        "Fat-containing Morgagni hernia",
+        "Teratoma"
+      ],
+      "management": "Observe if small, silent and typical; surgical resection (VATS / thoracotomy) if symptomatic, compressive or atypical.",
+      "medicines": "None for the lipoma; review steroid exposure if the picture is diffuse lipomatosis.",
+      "follow_up": "Interval CT if not removed.",
+      "red_flags": [
+        "Heterogeneous / enhancing mass",
+        "Rapid growth",
+        "Superior vena cava or airway compression"
+      ]
+    },
+    "mesenteric lipoma": {
+      "how_common": "Rare; fatty mesenteric masses are more often mesenteric panniculitis, lipomatosis or liposarcoma.",
+      "typical_age": [
+        30,
+        75
+      ],
+      "typical_age_text": "Adults 40-70 years",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Small-bowel mesentery, omentum.",
+      "symptoms": "Often none; abdominal distension, pain, bowel obstruction or volvulus when large.",
+      "imaging_note": "CT: fat-density mass displacing bowel, thin or no septa.",
+      "differential": [
+        "Well-differentiated liposarcoma",
+        "Mesenteric panniculitis",
+        "Lipoblastoma (children)",
+        "Teratoma",
+        "Omental infarction"
+      ],
+      "management": "Observe when clearly a simple lipoma; surgery for symptoms; any large fatty abdominal mass with septa or nodules should be treated as possible liposarcoma until proven otherwise.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Interval CT / MRI if not removed.",
+      "red_flags": [
+        "Size over 10 cm",
+        "Thick septa / nodules",
+        "Rapid growth",
+        "Bowel obstruction"
+      ]
+    },
+    "pancreatic lipoma": {
+      "how_common": "Very rare. Focal fatty infiltration of the pancreas is far commoner and can mimic a lipoma.",
+      "typical_age": [
+        40,
+        75
+      ],
+      "typical_age_text": "40-70 years",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Pancreatic head, body or tail.",
+      "symptoms": "Usually none; abdominal pain, pancreatitis or jaundice if large or in the head.",
+      "imaging_note": "CT: homogeneous fat density; MRI: fat that suppresses; EUS: hyperechoic.",
+      "differential": [
+        "Focal fatty infiltration / replacement",
+        "Pancreatic lipomatosis",
+        "Liposarcoma",
+        "Mature teratoma"
+      ],
+      "management": "Observation if typical and silent; resection if symptomatic or uncertain.",
+      "medicines": "Pancreatic enzyme replacement only if generalised fatty replacement causes insufficiency.",
+      "follow_up": "Imaging follow-up if not removed.",
+      "red_flags": [
+        "Jaundice",
+        "Pancreatitis",
+        "Non-fatty / enhancing component"
+      ]
+    },
+    "paracaval lipoma": {
+      "how_common": "Extremely rare (case-report level).",
+      "typical_age": [
+        30,
+        75
+      ],
+      "typical_age_text": "Adults 40-70 years",
+      "sex_note": "Insufficient data.",
+      "typical_sites": "Retroperitoneal fat beside the inferior vena cava.",
+      "symptoms": "Non-specific abdominal discomfort or none; may displace the IVC.",
+      "imaging_note": "Fat-density mass next to the IVC; main task is to exclude liposarcoma, the commonest retroperitoneal sarcoma.",
+      "differential": [
+        "Retroperitoneal well-differentiated liposarcoma",
+        "Angiomyolipoma",
+        "Lymphangioma",
+        "Normal paracaval fat prominence"
+      ],
+      "management": "Because retroperitoneal fatty masses are often liposarcomas, MRI and specialist review (biopsy / MDM2) are advised; complete excision is usual.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Surveillance imaging after excision (recurrence is possible).",
+      "red_flags": [
+        "Size over 10 cm",
+        "Septa / nodules",
+        "IVC compression or thrombus",
+        "Growth"
+      ]
+    },
+    "parosteal lipoma": {
+      "how_common": "Rare - well under 1% of lipomas.",
+      "typical_age": [
+        30,
+        70
+      ],
+      "typical_age_text": "30-60 years",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Along the shaft of long bones - femur, radius, humerus, tibia.",
+      "symptoms": "Slow painless mass; nerve palsy (e.g. posterior interosseous nerve at the forearm) if it compresses a nerve.",
+      "imaging_note": "X-ray: lucent fatty mass with reactive bony outgrowth on the adjacent cortex; MRI: fat attached to periosteum.",
+      "differential": [
+        "Parosteal osteosarcoma",
+        "Osteochondroma",
+        "Liposarcoma",
+        "Myositis ossificans"
+      ],
+      "management": "Excision (with the reactive bone) if symptomatic or nerve compression is present.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Clinical review; imaging if regrowth.",
+      "red_flags": [
+        "Dense / irregular bone formation",
+        "Rapid growth",
+        "Neurological deficit"
+      ]
+    },
+    "parotid lipoma": {
+      "how_common": "About 1-4% of parotid tumours.",
+      "typical_age": [
+        30,
+        75
+      ],
+      "typical_age_text": "40-60 years",
+      "sex_note": "More often men in several series.",
+      "typical_sites": "Superficial lobe of the parotid gland.",
+      "symptoms": "Soft, painless, slowly growing cheek swelling; facial nerve function is normal.",
+      "imaging_note": "Ultrasound: ovoid mass with thin hyperechoic striations; CT / MRI show fat.",
+      "differential": [
+        "Pleomorphic adenoma",
+        "Warthin tumour",
+        "Sialolipoma",
+        "Parotid lipomatosis",
+        "Liposarcoma (very rare)"
+      ],
+      "management": "Observation or superficial parotidectomy / enucleation if symptomatic, cosmetically bothersome or uncertain, with facial-nerve preservation.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Clinical review.",
+      "red_flags": [
+        "Facial nerve weakness",
+        "Fixed or hard mass",
+        "Rapid growth",
+        "Neck nodes"
+      ]
+    },
+    "pericallosal lipoma": {
+      "how_common": "The commonest site of intracranial lipoma (about 45% of them). Intracranial lipomas are roughly 0.1-0.5% of intracranial tumours / incidental imaging findings.",
+      "typical_age": [
+        0,
+        80
+      ],
+      "typical_age_text": "Congenital - found at any age, many in adults as incidental findings",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Along the corpus callosum (curvilinear thin type or large tubulonodular anterior type).",
+      "symptoms": "Often none. Seizures, headache, developmental delay or learning difficulty, usually linked to an associated callosal dysgenesis.",
+      "imaging_note": "MRI: T1 bright curved or nodular fat along the callosum, dark on fat suppression. Large tubulonodular lipomas are almost always accompanied by corpus callosum dysgenesis.",
+      "differential": [
+        "Haemorrhage",
+        "Dermoid",
+        "Teratoma",
+        "Lipomatous differentiation in tumours (rare)"
+      ],
+      "management": "No surgery - the lipoma is embedded in the pericallosal arteries and removal brings risk without benefit. Manage epilepsy and any associated brain anomalies.",
+      "medicines": "Anti-seizure medicines if epilepsy is present (choice and dose by a neurologist).",
+      "follow_up": "Clinical follow-up; repeat imaging only if symptoms change.",
+      "red_flags": [
+        "New or worsening seizures",
+        "Hydrocephalus",
+        "Developmental regression"
+      ]
+    },
+    "pericardial lipoma": {
+      "how_common": "Very rare (case-report level).",
+      "typical_age": [
+        30,
+        80
+      ],
+      "typical_age_text": "Adults",
+      "sex_note": "Insufficient data.",
+      "typical_sites": "Pericardial sac / epicardial surface.",
+      "symptoms": "Often none; chest pain, breathlessness or palpitations if large.",
+      "imaging_note": "CT / MRI: fat mass in the pericardium, no enhancing nodules; must be told from normal (often abundant) epicardial fat.",
+      "differential": [
+        "Epicardial fat prominence",
+        "Liposarcoma",
+        "Thymolipoma",
+        "Fat-containing Morgagni hernia",
+        "Teratoma"
+      ],
+      "management": "Observe if silent; surgical resection if compressing the heart or when malignancy is suspected.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Interval imaging with cardiology.",
+      "red_flags": [
+        "Pericardial effusion",
+        "Heterogeneous or enhancing mass",
+        "Haemodynamic symptoms"
+      ]
+    },
+    "pleural lipoma": {
+      "how_common": "Rare; most are subpleural / extrapleural fat masses.",
+      "typical_age": [
+        40,
+        80
+      ],
+      "typical_age_text": "Older adults, often incidental",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Between the parietal pleura and chest wall; sometimes dumbbell-shaped through the chest wall.",
+      "symptoms": "Often none; cough, chest discomfort or breathlessness when large.",
+      "imaging_note": "X-ray: well-defined soft-tissue density with obtuse angles against the chest wall; CT: homogeneous fat. Extrapleural fat hypertrophy (steroids, obesity) is a mimic.",
+      "differential": [
+        "Extrapleural fat hypertrophy",
+        "Liposarcoma",
+        "Solitary fibrous tumour of the pleura",
+        "Loculated effusion",
+        "Pleural plaque"
+      ],
+      "management": "Observe if silent and typical; resection (often VATS) if symptomatic, enlarging or uncertain.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Interval CT if not removed.",
+      "red_flags": [
+        "Growth",
+        "Pleural effusion",
+        "Non-fatty / enhancing component"
+      ]
+    },
+    "quadrigeminal cistern lipoma": {
+      "how_common": "About 25% of intracranial lipomas (second commonest site after pericallosal).",
+      "typical_age": [
+        0,
+        80
+      ],
+      "typical_age_text": "Any age; usually an incidental adult finding",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Quadrigeminal / ambient / superior cerebellar cisterns behind the midbrain tectum, near the pineal region.",
+      "symptoms": "Almost always none; rarely hydrocephalus or seizures.",
+      "imaging_note": "MRI: small T1-bright midline nodule, dark on fat suppression; CT: fat density.",
+      "differential": [
+        "Dermoid cyst",
+        "Subacute haemorrhage",
+        "Pineal-region teratoma",
+        "Calcification"
+      ],
+      "management": "No treatment; avoid surgery.",
+      "medicines": "None.",
+      "follow_up": "Usually none unless symptoms develop.",
+      "red_flags": [
+        "Hydrocephalus signs",
+        "Enhancement or growth",
+        "Headache with vomiting"
+      ]
+    },
+    "subgaleal lipoma": {
+      "how_common": "A recognised cause of forehead / scalp swelling; many lie under the frontalis muscle or galea.",
+      "typical_age": [
+        15,
+        70
+      ],
+      "typical_age_text": "Adults, often 20-50 years",
+      "sex_note": "No strong preference.",
+      "typical_sites": "Forehead (subgaleal / sub-frontalis) or scalp.",
+      "symptoms": "Soft painless swelling, cosmetic concern, sometimes mild headache.",
+      "imaging_note": "Ultrasound: ovoid hyperechoic / isoechoic mass under the scalp; CT / MRI show fat with intact skull.",
+      "differential": [
+        "Frontal osteoma",
+        "Dermoid / epidermoid cyst",
+        "Scalp lymph node",
+        "Soft-tissue sarcoma (rare)"
+      ],
+      "management": "Observation, or excision (often via a hidden hairline / endoscopic approach) for cosmetic reasons, taking care of the frontal nerve branches.",
+      "medicines": "None for the lesion.",
+      "follow_up": "Clinical review.",
+      "red_flags": [
+        "Bone erosion on imaging",
+        "Rapid growth",
+        "Overlying skin change"
+      ]
+    },
+    "suprasellar cistern lipoma": {
+      "how_common": "About 14% of intracranial lipomas (suprasellar / interpeduncular / tuber cinereum region).",
+      "typical_age": [
+        0,
+        80
+      ],
+      "typical_age_text": "Any age; usually an incidental adult finding",
+      "sex_note": "No clear preference.",
+      "typical_sites": "Suprasellar and interpeduncular cisterns, tuber cinereum region.",
+      "symptoms": "Usually none; rarely visual or hormonal disturbance.",
+      "imaging_note": "Sagittal T1 MRI: bright nodule in the suprasellar cistern that drops on fat suppression; CT: fat density.",
+      "differential": [
+        "Craniopharyngioma",
+        "Dermoid cyst",
+        "Rathke cleft cyst / pituitary haemorrhage (T1 bright)",
+        "Hypothalamic hamartoma"
+      ],
+      "management": "Observation; surgery is avoided because of adjacent hypothalamus, optic apparatus and vessels. Endocrine and visual assessment if symptoms.",
+      "medicines": "None for the lipoma; hormone replacement only if a pituitary / hypothalamic deficit is documented.",
+      "follow_up": "Usually none; review if visual or endocrine symptoms.",
+      "red_flags": [
+        "Visual-field loss",
+        "Endocrine disturbance",
+        "Enhancement or growth"
+      ]
+    }
+  }
+}

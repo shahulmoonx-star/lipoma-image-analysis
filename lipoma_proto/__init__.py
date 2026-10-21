@@ -1,0 +1,1 @@
+"""Lipoma imaging prototype."""
